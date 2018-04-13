@@ -1,0 +1,31 @@
+.section {
+    padding: 5rem 0;
+    display: block;
+}
+
+.section-title {
+    text-align: center;
+    margin: 0 0 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.section-description {
+    text-align: center;
+    color: #8d96a7;
+    margin: -1.5rem auto 3rem;
+    max-width: 48rem;
+    font-size: 1.125rem;
+}
+
+.section-action {
+    background: linear-gradient(to right, #1488cc, #2b32b2);
+    color: #fff;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.section-action .section-description {
+    color: #fff;
+}
