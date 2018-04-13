@@ -30,10 +30,10 @@ export class AppComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit() {
-/*     this.interval = setInterval(() => {
+     this.interval = setInterval(() => {
       this.loadCurrencies();
-    }, 1000);
- */  }
+    }, 60000);
+  }
 
   ngOnDestroy() {
     if (this.interval) {
