@@ -14,4 +14,4 @@
   $ npm install
   $ ng serve -o
 ```
-Now open page http://127.0.0.1:8000/ in your browser and enjoy! 😎
+Your application will be live at this address  http://localhost:4200/ in your browser and enjoy! 😎
