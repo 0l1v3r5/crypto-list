@@ -1,8 +1,7 @@
 # crypto-list
 > Simple application pour apprendre les fondammentaux du framework [Angular](https://angular.io).
-<br>
+
 > Learn [Angular](https://angular.io) fondammentals by building a simple cryptocurrency tracker.
-<br>
 
 > [GDG Porto-Novo Meetup](https://www.meetup.com/fr-FR/GDG-Porto-Novo/events/248765923/)
 
